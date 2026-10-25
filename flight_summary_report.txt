@@ -1,0 +1,5 @@
+=== FLIGHT DATA ANALYSIS REPORT ===
+Total Flights Analyzed: 5
+Flights with Significant Delays (>15 mins): 2
+On-Time / Minor Delay Flights: 3
+Average Departure Delay: 14.00 minutes
